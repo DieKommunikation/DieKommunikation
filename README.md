@@ -1,8 +1,7 @@
 ### Hi there, I'm Nicklas 👋
-- 🔭 I am currently working on my fun project "Takara"
-- 🌱 In the past I developed Minecraft Plugins!
-- ✨ 2020 Goals: Finish my Open Source Project.
-- ⚡ Fun fact: I love to draw and play Minecraft.
+- 🔭 I am currently working on a secret project
+- ✨ 2020 Goals: Finish my current project.
+- ⚡ Fun fact: In the past I developed Minecraft Plugins!
 <br/>
 
 ---
